@@ -24,7 +24,7 @@ Leistungen werden innerhalb meiner fachlichen und gewerberechtlichen Befugnisse 
 
 ## Maschinenbau und industrielle KI
 
-Der Repository-Name **Maschinenbau-KI** bezeichnet ein Anwendungsfeld dieser Arbeit: die mechanische und mechatronische Einbindung von Sensorik und rechnergestützten Systemen in Maschinen.
+Ein Anwendungsfeld meiner Arbeit ist die mechanische und mechatronische Einbindung von Sensorik und rechnergestützten Systemen in Maschinen.
 
 Dazu zählen beispielsweise Sensorhalterungen, Gehäuse für Industriecomputer, angepasste Baugruppen und geklärte Schnittstellen. Einbauraum, Wärmeabfuhr, Montage und Wartungszugang werden bereits in der Konstruktion berücksichtigt.
 
